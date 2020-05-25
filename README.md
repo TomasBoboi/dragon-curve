@@ -1,6 +1,4 @@
-# dragonC
-Dragon Curve Fractal generator, written in C.
+# dragon-curve
+Dragon Curve Fractal generator, written in C, for use in the Linux command-line.
 
-Supports up to 18 iterations.
-
-Output is written to a .txt file.
+Technically supports up to 30 iterations, but anything after 20 iterations starts taking quite a lot of time.
